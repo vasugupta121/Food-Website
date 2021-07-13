@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+}
+.box773{
+    height: 165px;
+    width: 245px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://b.zmtcdn.com/data/pictures/4/18694284/1058478dc7109d28a277fddf59796f02_top_thumb_620_314.jpg?output-format=webp);
+    background-size: cover;
+}
