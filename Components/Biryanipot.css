@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+}
+.box735{
+    height: 165px;
+    width: 245px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url("https://b.zmtcdn.com/data/pictures/chains/4/18947254/a05c9fa202d6c7894488d929972f8aa8_featured_v2.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A");
+    background-size: cover;
+}
