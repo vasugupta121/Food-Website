@@ -1,0 +1,197 @@
+*{
+    margin: 0%;
+}
+.o1{
+    height: 720px;
+    width: 100%;
+    background-color: #e5eaf0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.o2{
+    height: 720px;
+    width: 1200px;
+    /* background-color: black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+.o3{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://b.zmtcdn.com/data/pictures/1/18695861/82b6ca6c7d3fcffaa179b6d75bd1ceaa_featured_v2.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A);
+    background-size: contain;
+}
+.o4{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://b.zmtcdn.com/data/pictures/chains/3/19316773/fd3b862b2af3a61449f5bac2487fb09e.jpg?output-format=webp);
+    background-size: cover;
+}
+.o5{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/x6zze4w7dkremjwzqbgy);
+    background-size: contain;
+}
+.o6{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/aqdioq5ld2q7n8yj0nam);
+    background-size: contain;
+}
+.o7{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/smtiu1iu8plyuwfntsil);
+    background-size: contain;
+}
+.o8{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/ga3y4vrhrxx16owhtkb2);
+    background-size: contain;
+}
+.o9{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/xzo4xsmdwinj4m0va9pb);
+    background-size: contain;
+}
+.o10{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://b.zmtcdn.com/data/pictures/6/18695036/f972b24588571df7a24033fa9220a9cb_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A);
+    background-size: contain;
+}
+.o11{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/qz6fryrrxns5bj1lkwcx);
+    background-size: contain;
+}
+.o12{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/fzgs7ejfporrqilx0yqi);
+    background-size: contain;
+}
+.o13{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/hrjpqey3zgbkhvn0ajba);
+    background-size: contain;
+}
+.o14{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/gnbxt8ahwuewyjw5w2ia);
+    background-size: contain;
+}
+.o15{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/ylwi1y6sydhh3d6kwsu8);
+    background-size: contain;
+}
+.o16{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/iuvehfayrr4fzckvppah);
+    background-size: contain;
+}
+.o17{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://b.zmtcdn.com/data/pictures/8/19217078/2b4dbc3f1814626d24aad3ee249dd68a.jpg?output-format=webp);
+    background-size: cover;
+}
+.o18{
+    height: 70px;
+    width: 70px;
+    background-color: yellow;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background-image: url(https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_140,h_140,c_fill/qifuadiktmvl8ptjwxok);
+    background-size: contain;
+}
